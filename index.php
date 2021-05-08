@@ -3,3 +3,4 @@ git study
 ・git add
 ・git commit
 ・git rm
+・git status
